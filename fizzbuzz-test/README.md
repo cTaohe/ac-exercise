@@ -1,14 +1,11 @@
 # FizzBuzz_testing
-***
 A simple application for FizzBuzz game.
 
 ## Installation
-***
 - npm & Node.js
 - mocha & chai
 
 ## Features
-***
 ### The FizzBuzz rule
 * `Fizz`: the numbers that are multiples of 3.
 * `Buzz`: the numbers that are multiples of 3.
