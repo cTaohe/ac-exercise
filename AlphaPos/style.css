@@ -12,11 +12,10 @@ body {
   border-radius: 3px;
 }
 
-.row {
-  max-height: 600px;
-}
+
 
 .col-md-4 {
+  max-height: 600px;
   overflow-y: auto;
 }
 
