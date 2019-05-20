@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.slider, .displayhex {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+.red, .green, .blue {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  border-radius: 5px;
+}
+
+.red {
+  color: #FFF;
+  background-color: #F00;
+}
+
+.green{
+  background-color: #0F0;
+}
+
+.blue {
+  color: #FFF;
+  background-color: #00F;
+}
